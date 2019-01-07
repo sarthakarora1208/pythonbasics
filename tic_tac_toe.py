@@ -1,4 +1,4 @@
-1# Making a board and assigning row column pair
+# Making a board and assigning row column pair
 board = {}
 for i in range(1, 4):
     for j in range(1, 4):
